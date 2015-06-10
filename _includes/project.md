@@ -41,8 +41,6 @@ Let's take a look at a high level overview of the Boot Sequence.
 
     9. If there is a bug in the bootloader, the system will triple fault causing a hard reboot
 
-[source](https://www.cs.rutgers.edu/~pxk/416/notes/02-boot.html)
-
 ##BIOS
 
 It’s an acronym for Basic Input/Output System. It has now been widely replaced by UEFI, but we will talk about that later. The bootloaders in the bootloaders folder are all designed to run with BIOS.
