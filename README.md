@@ -101,3 +101,8 @@ Here is a tutorial for writing a basic bootloader:
 Writing a 2 stage bootloader from beginning to end. Very well explained.
 
 * [http://www.brokenthorn.com/Resources/OSDev1.html](http://www.brokenthorn.com/Resources/OSDev1.html)
+
+A high level article that highlights the basic differences betwwen BIOS and UEFI:
+
+* [Booting an Operating System](https://www.cs.rutgers.edu/~pxk/416/notes/02-boot.html)
+
