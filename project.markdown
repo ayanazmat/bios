@@ -1,4 +1,6 @@
-OS and Bootloaders
+---
+title: Heading
+---
 
 This project is a compilation of different resources to understand bootloaders, some examples implemented in Linux, and my understanding of how the work. The bootloaders directory contains some bootloaders I got running using various tutorials that have been linked to.
 
