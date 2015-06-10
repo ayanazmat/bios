@@ -117,10 +117,15 @@ A high level article that highlights the basic differences betwwen BIOS and UEFI
 ##Sources
 
 Please note that the material above has been compiled from various sources mentioned below.
+
 [Booting an Operating System](https://www.cs.rutgers.edu/~pxk/416/notes/02-boot.html)
+
 [Kernel Booting Process](https://github.com/0xAX/linux-insides/blob/master/Booting/linux-bootstrap-1.md)
+
 [Brokenthorn's OS Dev Series](http://www.brokenthorn.com/Resources/OSDev1.html)
+
 [Wiki Books - What is a bootloader?](https://en.wikibooks.org/wiki/X86_Assembly/Bootloaders#What_is_a_Bootloader.3F)
+
 [Master Boot Record - Wikipedia](https://en.wikipedia.org/wiki/Master_boot_record
 )
 
