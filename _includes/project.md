@@ -1,8 +1,3 @@
----
-title: Heading
-layout: default
----
-
 This project is a compilation of different resources to understand bootloaders, some examples implemented in Linux, and my understanding of how the work. The bootloaders directory contains some bootloaders I got running using various tutorials that have been linked to.
 
 This document is meant to summarize the BIOS boot process so that someone new to the topic can understand the basics and dive right into the examples.

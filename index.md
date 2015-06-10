@@ -1,5 +1,4 @@
 ---
-title: BIOS & Bootloaders
 layout: default
 ---
 
