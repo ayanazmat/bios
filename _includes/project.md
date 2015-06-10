@@ -80,9 +80,6 @@ This wikipedia [article](https://en.wikipedia.org/wiki/Master_boot_record) shows
 Once the BIOS has loaded the bootloader, the code in the bootloader is in control and is responsible for loading the operating system. Since 512bytes isn’t often enough, BIOS bootloaders are multi-stage, and the first stage is responsible for loading the second stage bootloader which in turn loads the OS.
 The bootloader can run all of its code and make use of the interrupts provided by the BIOS to load the OS.
 
-
-##BIOS vs UEFI
-
 ##Useful Resources
 
 Here is an intel article for the bare bones functionality required for booting an Intel Architecture Platform. [https://www.cs.cmu.edu/~410/doc/minimal_boot.pdf](https://www.cs.cmu.edu/~410/doc/minimal_boot.pdf)
